@@ -5,7 +5,11 @@
   <li>Nombre: Martin</li>
   </ul>
   
-  <h2>Trabajo Practico 01</h2>
+  <h3>Trabajo Practico 01</h3>
   <ul>
   <li>Enunciado: Completar todas las etapas de la resolución de problemas para un problema
     simple: la adición de dos números.</li>
+
+<h2>Analisis del problema</h2>
+<ul>
+  <li>Problema: Obtener del usuario dos número y mostrarle la suma.</li>
