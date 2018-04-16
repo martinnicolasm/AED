@@ -15,3 +15,6 @@
   <li>Problema: Obtener del usuario dos número y mostrarle la suma.</li>
   <li>Modelo IPO:</li>
   
+  ![modelo ipo](https://user-images.githubusercontent.com/37809641/38831500-f97e6b92-4195-11e8-92ba-93702d665356.png)
+
+  
