@@ -13,12 +13,8 @@
 
 <h2>Análisis del problema</h2>
 <ul>
-  
-  --- 
-  
+   
   <li>Problema: Obtener del usuario dos números y mostrarle la suma.</li>
-  
-  --- 
   
   <li>Modelo IPO:</li>
   
