@@ -13,7 +13,13 @@
 
 <h2>Análisis del problema</h2>
 <ul>
+  
+  --- 
+  
   <li>Problema: Obtener del usuario dos números y mostrarle la suma.</li>
+  
+  --- 
+  
   <li>Modelo IPO:</li>
   
   
@@ -23,7 +29,9 @@
 <h2>Diseño de la solución</h2>
 <ul>
   <li>Léxico del problema</li>
+  
   a, b ∈ Z
+  
   <li>Representación del algoritmo</li>
   <li>Representación textual:</li>
   <li>PSEUDOCÓDIGO.</li>
