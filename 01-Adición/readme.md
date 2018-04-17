@@ -18,7 +18,6 @@
   
   <li>Modelo IPO:</li>
   
-  
   ![modelo ipo](https://user-images.githubusercontent.com/37809641/38831500-f97e6b92-4195-11e8-92ba-93702d665356.png)
   </ul>
 
@@ -39,4 +38,6 @@
   3.Mostrar a+b
   
   <li>Representación visual:</li> 
+  
+  ![visual](https://user-images.githubusercontent.com/37809641/38850053-0f063b2a-41e6-11e8-9c4b-fa99e9fc0c0e.png)
 </ul>
