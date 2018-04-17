@@ -23,12 +23,15 @@
 <h2>Diseño de la solución</h2>
 <ul>
   <li>Léxico del problema</li>
-  n ∈ Z
+  a, b ∈ Z
   <li>Representación del algoritmo</li>
   <li>Representación textual:</li>
   <li>PSEUDOCÓDIGO.</li>
+  
   1.Leer a
+  
   2.Leer b
+  
   3.Mostrar a+b
   
   <li>Representación visual:</li> 
