@@ -1,3 +1,9 @@
+/*
+*Adicion
+*Se imprime en consola la suma de dos numeros del tipo entero.
+*Martín Martinez
+*20180417
+*/
 #include <iostream>
 
 int main () {
