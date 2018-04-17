@@ -5,7 +5,7 @@
   <li>Nombre: Martin</li>
   </ul>
   
-  <h3>Trabajo Práctico 01</h3>
+  <h1>Trabajo Práctico 01</h1>
   <ul>
   <li>Enunciado: Completar todas las etapas de la resolución de problemas para un problema
     simple: la adición de dos números.</li>
