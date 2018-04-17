@@ -22,5 +22,7 @@ char, unsigned, int, double, y string.</li>
 vistos en clases</li>
   
   <li>Modelo IPO:</li>
+  
   ![modelo ipo2](https://user-images.githubusercontent.com/37809641/38891229-0dddfb9c-425a-11e8-8fbc-c5938edbf28a.png)
   
+</ul>
