@@ -1,6 +1,6 @@
 <ul>
   <li>Usuario GitHub: martinnicolasm</li>
-  <li>Legajo: 187.694-4</li>
+  <li>Legajo: 164.897-4</li>
   <li>Apellido: Martinez</li>
   <li>Nombre: Martin</li>
   </ul>
