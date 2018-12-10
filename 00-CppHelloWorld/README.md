@@ -32,6 +32,3 @@
   
   1.Mostrar Hello, Wordl!
   
-  <li>Representación visual:</li> 
-  
-  !
