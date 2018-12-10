@@ -17,7 +17,8 @@
   
   <li>Modelo IPO:</li>
   
- !
+ ![ipo](https://user-images.githubusercontent.com/37809641/49761695-a3db4280-fc7c-11e8-8693-cbacbd4f8188.jpg)
+
 
 <h2>Diseño de la solución</h2>
 <ul>
